@@ -1,2 +1,1 @@
-# monty
-task 0x19.c
+<h1>0x19. C<h3> - Stacks, Queues - LIFO, FIFO
